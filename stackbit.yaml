@@ -22,7 +22,7 @@ stackbit_banner:
   show_banner: true
   name: Planty
   create_url: 'https://app.stackbit.com/create?theme=planty'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-planty'
+  github_url: 'https://github.com/brentshierk/poppyshop-cms'
 models:
   config:
     type: config
